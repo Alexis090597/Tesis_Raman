@@ -1,0 +1,43 @@
+"""-------MINERALES---------
+ Azufre: Responde muy bien a espectroscopia Raman.
+ Calcita: Responde muy bien a espectroscopia Raman.
+ Estos dos ultimos tienen estucturas alramente polarizables lo que los hace fuertes a disperores Raman.
+ Fluorita: Responde bien a espectroscopia Raman. Tienen un espectro Raman simple y fuerte  con un pico alrededor de 321 cm-1, la orientacion del cristal puede afectar a la medida
+ puede presentar fluorescencia.
+ Feldespato(Microlina): Responde de manera moderada a espectroscopia Raman. Tiene una estructura mas compleja que genera multiples picos en un rango de 100-1200cm-1,
+ la intensidad puede varior por posibles contaminaciones con otros feldspatos lo que provoca que pueda confundirse con otro de estos.
+ Calcita: Responde muy bien a espectroscopia Raman. Pico intenso alrededor de 1085cm-1, suele dar señales muy claras.
+ Cuarzo Lechozo: Responde bien a espectroscopia Raman. Tiene un pico alrededor de 465cm-1, puede presentar fluorescencia.
+ Hematita: Dificilmente repsonde a espectroscopia Raman. Puede absorber la luz del laser y calentar el material, puede tener fluorescenia de impureza.
+ Pirita: Responde debilmente a espectroscopia Raman: Suele tener señales Raman muy debilies o nulas, puede presentar alta absorcion del laser.
+ Muscovita y Biotita(Micas): Responde de manera moderada a espectroscopia Raman. Picos debilies al rededor de 150-800cm-1, pueden reflejar mucho el laser
+ y dificultar la medicion.
+ Magnetita: Muy dificilmente responde a espectrocopia Raman. Es altamente absorbete y no sule dar buenos espectros Raman.
+ Yeso(Alabastro,Satin Spar,Selenita): Responde de manera moderada a espectroscopia Raman. Picos en 415,495,620,1008cm-1, puede tener problemas de fluorescencia
+ si presenta impurezas.
+ Talco: Buena respuesta a espectroscopia Raman. Picos entre 200-800cm-1 cerca de 675cm-1, se debe usar baja potenica para evitar daño termico.
+ Pirrotita: Dificilmete responde a espectroscopia Raman. Metales y sulfuros suelen ser debiles en Raman.
+ Grafito: Buena respuesta a Raman pero varia. Picos en 1350cm-1 y 1580cm-1, depende de la calidad del grafico; si es amorfo, la señal puede ser debil.
+ Limonita: Dificilmente responde a espectroscopia Raman. No es un mineral bien definido, sino una mecla de oxidos de hierro hidratados, puede absorber
+ fuertemente el laser.
+ Selenita: Moderadamente responde a espectroscopia Raman: Picos en 415,620,1008cm-1, puede presentar fluorescencia
+ Vermiculita: Moderadamente responde a Raman. Similar a las micas, con señales debiles en el rango de 100-1000-cm, puede ser dificil obtener un espectro
+ claro debido a la estructura en capas
+ Calificacion de posible desempeño
+ Azufre XXXXX
+ Calcita XXXXX
+ Fluorita XXXX
+ Feldespato(Microlina) XXX
+ Cuarzo lechozo XXX
+ Hematita X
+ Pirita X
+ Muscovita y Biotita(Micas) XX
+ Magnetita X
+ Yeso(Alabastro,Satin Spar,Selenita) XX
+ Talco XXX
+ Pirrotita X
+ Grafito XX
+ Limonita X
+ Selenita XX
+ Vermiculita XX
+ """

@@ -1,0 +1,16 @@
+   Flourite1  Basura = 0.78
+   Flourite3  Basura = 0.154
+   Flourite4  Basura = 0.16
+   Azufre1    Basura = 1
+   Azufre3    Basura = 0.11
+   Calcite1   Basura = 1.15
+   Calcite2   Basura = 1.5
+   Calcite3   Basura = 0.18
+   Talc1      Basura = 1.2
+   Talc2      Basura = 0.2
+   Talc3      Basura = 0.2
+   Microline  Basura = 1.6
+   Microline2 Basura = 0.2
+   AceiteCa   Basura = 0.125
+   AceiteCano   Basura = 0.132
+   AceiteOliva   Basura = 0.122

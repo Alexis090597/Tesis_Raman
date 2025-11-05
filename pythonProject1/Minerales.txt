@@ -1,0 +1,14 @@
+BasuraX.txt
+AzufreX.txt
+Azufre3X.txt
+CalciteX.txt
+Clacite2X.txt
+Calcite3X.txt
+FlouriteX.txt
+fluorite3X.txt
+fluorite4X.txt
+TalcX.txt
+Talc2X.txt
+Talc3X.txt
+MicrolineX.txt
+Microline2X.txt
